@@ -1,2 +1,3 @@
 this is a example to show merge conflict
 Yo my name is Somangshu .
+I am a coder.
